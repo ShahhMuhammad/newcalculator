@@ -1,4 +1,4 @@
-function add(a,b) {
-    console.log(a+b);
+function mul(a,b) {
+    console.log(a*b);
 }
-add(2,3)
+mul(2,3);
