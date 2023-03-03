@@ -1,4 +1,4 @@
-function mul(a,b) {
-    console.log(a*b);
+function div(a,b) {
+    console.log(a/b);
 }
-mul(2,3);
+div(2,6);
